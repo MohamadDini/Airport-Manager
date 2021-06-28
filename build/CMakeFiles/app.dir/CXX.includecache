@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mohamad/Desktop/project/manage airport/include/airliner.h
+../include/plane.h
+/home/mohamad/Desktop/project/manage airport/include/plane.h
+
+/home/mohamad/Desktop/project/manage airport/include/airman.h
+string
+-
+vector
+-
+
+/home/mohamad/Desktop/project/manage airport/include/beg_airman.h
+../include/airman.h
+/home/mohamad/Desktop/project/manage airport/include/airman.h
+
+/home/mohamad/Desktop/project/manage airport/include/cargo.h
+../include/plane.h
+/home/mohamad/Desktop/project/manage airport/include/plane.h
+
+/home/mohamad/Desktop/project/manage airport/include/flying.h
+string
+-
+
+/home/mohamad/Desktop/project/manage airport/include/plane.h
+string
+-
+vector
+-
+
+/home/mohamad/Desktop/project/manage airport/include/pro_airman.h
+../include/airman.h
+/home/mohamad/Desktop/project/manage airport/include/airman.h
+
+/home/mohamad/Desktop/project/manage airport/src/airliner.cpp
+../include/airliner.h
+/home/mohamad/Desktop/project/manage airport/include/airliner.h
+iostream
+-
+
+/home/mohamad/Desktop/project/manage airport/src/airman.cpp
+../include/airman.h
+/home/mohamad/Desktop/project/manage airport/include/airman.h
+iostream
+-
+
+/home/mohamad/Desktop/project/manage airport/src/begAirman.cpp
+../include/beg_airman.h
+/home/mohamad/Desktop/project/manage airport/include/beg_airman.h
+iostream
+-
+
+/home/mohamad/Desktop/project/manage airport/src/cargo.cpp
+../include/cargo.h
+/home/mohamad/Desktop/project/manage airport/include/cargo.h
+iostream
+-
+
+/home/mohamad/Desktop/project/manage airport/src/main.cpp
+iostream
+-
+vector
+-
+../include/pro_airman.h
+/home/mohamad/Desktop/project/manage airport/include/pro_airman.h
+../include/beg_airman.h
+/home/mohamad/Desktop/project/manage airport/include/beg_airman.h
+../include/flying.h
+/home/mohamad/Desktop/project/manage airport/include/flying.h
+../include/cargo.h
+/home/mohamad/Desktop/project/manage airport/include/cargo.h
+../include/airliner.h
+/home/mohamad/Desktop/project/manage airport/include/airliner.h
+typeinfo
+-
+
+/home/mohamad/Desktop/project/manage airport/src/plane.cpp
+../include/plane.h
+/home/mohamad/Desktop/project/manage airport/include/plane.h
+iostream
+-
+
+/home/mohamad/Desktop/project/manage airport/src/proAirman.cpp
+../include/pro_airman.h
+/home/mohamad/Desktop/project/manage airport/include/pro_airman.h
+iostream
+-
+

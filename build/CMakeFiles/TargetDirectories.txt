@@ -1,0 +1,3 @@
+/home/mohamad/Desktop/project/manage airport/build/CMakeFiles/rebuild_cache.dir
+/home/mohamad/Desktop/project/manage airport/build/CMakeFiles/edit_cache.dir
+/home/mohamad/Desktop/project/manage airport/build/CMakeFiles/app.dir
